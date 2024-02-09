@@ -1,0 +1,55 @@
+
+.all{
+    position: relative;
+   
+}
+
+.all::before {
+    content: "";
+    background-image: url("https://i.postimg.cc/6QvHKDsh/view-of-modern-business-skyscrapers-glass-and-sky-view-landscape-of-commercial-building-in-central-c.png");
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.5;
+    background-color: #253B44;
+}
+
+
+h2, h3{color:#253B44
+}
+.media{
+    color: blue;
+    padding: 10px;
+    font-weight: bold;
+    font-size:10px;
+  
+}
+h2{
+    text-decoration: underline;
+}
+h4{
+    font-family: cursive;
+    color:darkblue
+}
+
+.contact{
+margin-left: 30px;
+
+}
+
+.questions{
+    margin-top: 40px;
+}
+.qv{
+    text-decoration: underline;
+}
+span{
+    color:blue;
+}
+.head{
+    display:flex;
+    
+}
